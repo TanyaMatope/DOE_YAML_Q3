@@ -1,0 +1,15 @@
+{
+  "name": "doe_yaml_q3",
+  "version": "1.0.0",
+  "description": "DOE Summative project question 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/TanyaMatope/DOE_YAML_Q3"
+  },
+  "author": "Tanya",
+  "license": "ISC"
+}
